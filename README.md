@@ -5,7 +5,7 @@ On Wave é um chatbot inovador desenvolvido para o site da World Surf League. Se
 
 # TECNOLOGIAS
 
-Para o desenvolvimento do chat bot, será utilizado React, Python, MongoDB e API OpenAI
+Para o desenvolvimento do chat bot, será utilizado Javascript, Pinho (banco de dado vetorial) e API Mistralai, AWS
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
